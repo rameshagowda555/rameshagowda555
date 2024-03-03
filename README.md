@@ -64,8 +64,8 @@ a <Strong>Senior Frontend Developer</Strong> based in Bengaluru, Karnataka, Indi
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
+    <img src="https://img.shields.io/badge/sourcetree-F05032.svg?style=for-the-badge&logo=sourcetree&logoColor=white"
+      alt="souretree"/>
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
